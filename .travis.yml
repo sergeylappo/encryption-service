@@ -13,6 +13,7 @@ android:
     - android-19
 
     # Additional components
-    - extra-google-google_play_services
     - extra-google-m2repository
     - extra-android-m2repository
+    licenses:
+      - 'android-sdk-license-.+'
