@@ -15,5 +15,6 @@ android:
     # Additional components
     - extra-google-m2repository
     - extra-android-m2repository
-    licenses:
-      - 'android-sdk-license-.+'
+
+before_install:
+  - yes | sdkmanager "platforms;android-27"
