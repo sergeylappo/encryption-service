@@ -3,6 +3,9 @@ package com.sergeylappo.encryptionservice
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
+/**
+ * TODO write documentation
+ */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,1 +1,1 @@
-include ':app', ':encryptionuilib'
+include ':app', ':encryptionuilib', ':encryptioncontract'
